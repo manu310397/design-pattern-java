@@ -1,3 +1,8 @@
+package com.manu.designpattern.adapter;
+
+import com.manu.designpattern.adapter.Employee;
+import com.manu.designpattern.adapter.EmployeeCSV;
+
 public class EmployeeAdapterCSV implements Employee {
 
     private EmployeeCSV instance;

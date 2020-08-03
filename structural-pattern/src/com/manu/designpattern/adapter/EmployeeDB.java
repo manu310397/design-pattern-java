@@ -1,3 +1,5 @@
+package com.manu.designpattern.adapter;
+
 public class EmployeeDB implements Employee {
     private String id;
     private String firstName;

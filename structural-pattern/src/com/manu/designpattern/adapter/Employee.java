@@ -1,3 +1,5 @@
+package com.manu.designpattern.adapter;
+
 public interface Employee {
     public String getId();
     public String getFirstName();

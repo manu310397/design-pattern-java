@@ -1,3 +1,5 @@
+package com.manu.designpattern.adapter;
+
 public class EmployeeAdapterLDAP implements Employee {
     private EmployeeLDAP employeeLDAP;
 

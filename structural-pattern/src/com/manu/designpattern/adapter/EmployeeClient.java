@@ -1,3 +1,7 @@
+package com.manu.designpattern.adapter;
+
+import com.manu.designpattern.adapter.EmployeeLDAP;
+
 import java.util.ArrayList;
 import java.util.List;
 

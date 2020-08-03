@@ -1,3 +1,5 @@
+package com.manu.designpattern.adapter;
+
 public class EmployeeLDAP {
     private String cn;
     private String surName;
